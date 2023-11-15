@@ -34,7 +34,6 @@ function botonSI(numero){
     
     
 }
-/*
 function botonNO(numero){
     if(numero==1){
         resultado = resultado + datos[0];
@@ -66,7 +65,6 @@ function botonNO(numero){
     
     
 }
-*/
 
 function getResultado(){
     return resultado;
